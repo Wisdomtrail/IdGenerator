@@ -1,0 +1,19 @@
+.container{
+width: 10cm;
+height: auto;
+background-color: black;
+color: white;
+border: 1px solid black;
+padding: 1rem; 
+width: "300px";
+}
+.name{
+    display: flex;
+    font-size: 20px;
+}
+.name p {
+    margin-right: 1cm;
+}
+.image{
+    border: 2px solid white;
+}
